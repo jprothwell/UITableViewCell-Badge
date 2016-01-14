@@ -1,0 +1,14 @@
+//
+//  UITableViewCell-Badge.pch
+//  UITableViewCell-Badge
+//
+//  Created by XuNing on 16/1/13.
+//  Copyright © 2016年 XuNing. All rights reserved.
+//
+
+#ifndef UITableViewCell_Badge_pch
+#define UITableViewCell_Badge_pch
+
+#import "UITableViewCell+Badge.h"
+
+#endif /* UITableViewCell_Badge_pch */
