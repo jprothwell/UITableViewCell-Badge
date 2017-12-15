@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "UITableViewCell-Badge"
+  s.name         = "UITableViewCell-BadgeEx"
   s.version      = "1.0"
   s.summary      = "The easiest way to add badge to your UITableViewCell."
   s.homepage     = "https://github.com/xn1108100154/UITableViewCell-Badge"
